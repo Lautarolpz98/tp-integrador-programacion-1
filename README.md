@@ -78,4 +78,4 @@ Incluye explicación teórica, ejecución del código y reflexiones finales.
 👥 Autores
 Emiliano Jara 
 
-Lautaro Lopez# tp-integrador-programacion-1
+Lautaro Lopez
